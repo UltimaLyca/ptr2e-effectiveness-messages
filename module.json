@@ -1,0 +1,29 @@
+{
+  "id": "effectiveness-messages",
+  "title": "Effectiveness Messages for PTR2e",
+  "description": "Displays classic Pokemon-style effectiveness messages ('It's super effective!', 'It's not very effective...') when damage is dealt in PTR2e.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "ptr2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "authors": [
+    {
+      "name": "Affan",
+      "discord": "affantorla"
+    }
+  ],
+  "url": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages",
+  "bugs": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages/issues",
+  "readme": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages#readme",
+  "esmodules": ["effectiveness-messages.js"]
+}
