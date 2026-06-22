@@ -25,7 +25,7 @@ A Foundry VTT module for PTR2e (Pokemon Tabletop Reunited 2e) that displays clas
 ### Manifest URL
 
 ```
-https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages/releases/latest/download/module.json
+https://raw.githubusercontent.com/UltimaLyca/ptr2e-effectiveness-messages/main/module.json
 ```
 
 ## Configuration

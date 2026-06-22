@@ -25,5 +25,7 @@
   "url": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages",
   "bugs": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages/issues",
   "readme": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages#readme",
+  "manifest": "https://raw.githubusercontent.com/UltimaLyca/ptr2e-effectiveness-messages/main/module.json",
+  "download": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages/archive/refs/heads/main.zip",
   "esmodules": ["effectiveness-messages.js"]
 }
