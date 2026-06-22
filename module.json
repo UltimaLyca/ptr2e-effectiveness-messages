@@ -22,8 +22,8 @@
       "discord": "affantorla"
     }
   ],
-  "url": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages",
-  "bugs": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages/issues",
-  "readme": "https://github.com/pokemon-tabletop-reunited/ptr2e-effectiveness-messages#readme",
+  "url": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages",
+  "bugs": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages/issues",
+  "readme": "https://github.com/UltimaLyca/ptr2e-effectiveness-messages#readme",
   "esmodules": ["effectiveness-messages.js"]
 }
